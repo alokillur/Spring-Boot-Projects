@@ -1,5 +1,5 @@
 # Spring-Boot-Projects
-SpringBoot Projects with MVC,JSP,THYMELEAF,MYSQL <br/>
+SpringBoot Projects with MVC,JPA,THYMELEAF,MYSQL <br/>
 
 These Projects are CRUD related projects <br/>
 These Projects uses MySQL Database <br/>
